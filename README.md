@@ -89,5 +89,5 @@ https://www.figma.com/file/QEouHQ91wsvypoVv6PZ4rm/Untitled?type=design&node-id=0
 
 ### ER図
 draw.io
-https://app.diagrams.net/#G1Y8aqXJHzS9J6XB_c085kjEaBiqWMhNVS
+https://drive.google.com/file/d/1Y8aqXJHzS9J6XB_c085kjEaBiqWMhNVS/view?usp=sharing
 
