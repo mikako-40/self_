@@ -83,5 +83,11 @@ RUNTEQ受講生、20代〜30代の自分自身の成長が感じにくくなり�
 - Amazon S3
 - PostgreSQL
 
-### Figma
+### 画面遷移図
+Figma
 https://www.figma.com/file/QEouHQ91wsvypoVv6PZ4rm/Untitled?type=design&node-id=0%3A1&mode=design&t=bAdaI6lgggqPRIuV-1
+
+### ER図
+draw.io
+https://drive.google.com/file/d/1Y8aqXJHzS9J6XB_c085kjEaBiqWMhNVS/view?usp=sharing
+
