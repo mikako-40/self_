@@ -36,4 +36,4 @@
 # Ignore vendor/bundle directory
 vendor/bundle
 .env
-node_modules
+/node_modules
